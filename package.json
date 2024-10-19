@@ -9,7 +9,7 @@
         "css-watch": "npm run css-build -- --watch"
     },
     "dependencies": {
-        "express": "^4.19.2",
+        "express": "^4.21.1",
         "mysql2": "^3.10.2",
         "pug": "^3.0.3",
         "sass": "^1.77.6"
